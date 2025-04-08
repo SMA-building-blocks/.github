@@ -11,7 +11,7 @@
 
 ## Objetivo
 
-Esta organização tem por objetivo a agregação de repositórios com projetos de *software* desenvolvidos sob o Paradigma de Sistemas Multiagentes e no contexto de Sistemas de Tomada de Decisão. Tais projetos consistem em *building blocks* desenvolvidos pelos autores no contexto de um Trabalho de Conclusão de Curso pela Universidade de Brasília - Faculdade de Ciências e Tecnologias em Engenharia (UnB/FCTE).
+<div style="text-align: justify">  Esta organização tem por objetivo a agregação de repositórios com projetos de <b>software</b> desenvolvidos sob o Paradigma de Sistemas Multiagentes e no contexto de Sistemas de Tomada de Decisão. Tais projetos consistem em <b>building blocks</b> desenvolvidos pelos autores no contexto de um Trabalho de Conclusão de Curso pela Universidade de Brasília - Faculdade de Ciências e Tecnologias em Engenharia (UnB/FCTE). </div>
 
 ## Fontes 
 
